@@ -19,14 +19,14 @@ description: >- # this means to ignore newlines until "baseurl:"
     I am a driven Web Developer with a passion for JavaScript web applications,
     UX/UI development, and clean code. I pride myself self on my quality and high
     standard, and enjoying building creative solutions to meet the needs of clients.
-baseurl: 'site' # the subpath of your site, e.g. /blog
+baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RobHuska
 github_username: robhuska
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: minima
 plugins:
     - jekyll-feed
 # Exclude from processing.
